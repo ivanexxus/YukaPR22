@@ -3,7 +3,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mis Enlaces</title>
-  <script src="c:\Users\Usuario\Pictures\Saved Pictures\IMG-20250531-WA0151.jpg"></script>
+  <script src="![IMG-20250531-WA0151](https://github.com/user-attachments/assets/cf8674b2-9313-4114-8ffa-c934e8eca0f9)
+"></script>
 </head>
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
   <div class="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md text-center">
